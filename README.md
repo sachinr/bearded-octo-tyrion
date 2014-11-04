@@ -1,4 +1,4 @@
-bearded-octo-tyrion
+Bearded-octo-tyrion
 ===================
 
 test

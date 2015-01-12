@@ -1,8 +1,1 @@
-Bearded-octo-tyrion
-===================
-
-test
-
-```diff
-- 12345
-+ 12345
+## Public test repo

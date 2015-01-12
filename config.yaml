@@ -1,0 +1,8 @@
+---
+services:
+  ServiceNow
+    version: 1
+    api: 2
+  Jenkins
+    version: 1
+    api: 2
